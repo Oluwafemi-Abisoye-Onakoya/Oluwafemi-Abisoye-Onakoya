@@ -4,7 +4,7 @@
 🛠️ Skills: SQL, Power BI, Excel, Python, Financial Analysis  
 
 
-📫 Reach me: [LinkedIn]([#](https://www.linkedin.com/in/onakoya-oluwafemi-53114971/)) | [Email](femionakoya1@gmail.com)
+📫 Reach me: [LinkedIn]((https://www.linkedin.com/in/onakoya-oluwafemi-53114971) | [Email](femionakoya1@gmail.com)
 
 
 <!---
